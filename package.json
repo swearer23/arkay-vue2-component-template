@@ -1,7 +1,7 @@
 {
-  "name": "@longfor-vue2-sfc/button",
-  "version": "0.0.15",
+  "name": "@longfor-vue2-sfc/component",
   "main": "src/index.js",
+  "version": "0.0.24",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib src/index.js && npm pack",

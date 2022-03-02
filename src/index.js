@@ -1,2 +1,2 @@
-import Button from './Button'
-export default Button
+import Component from './Component'
+export default Component

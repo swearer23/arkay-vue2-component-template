@@ -1,9 +1,9 @@
-import MyButton from './src/Button.vue';
+import MyComponent from './src/Component.vue';
 
 // More on default export: https://storybook.js.org/docs/vue/writing-stories/introduction#default-export
 export default {
-  title: 'Example/Button',
-  component: MyButton,
+  title: 'Example/{{:name}}',
+  component: MyComponent,
   // More on argTypes: https://storybook.js.org/docs/vue/api/argtypes
   argTypes: {
     backgroundColor: { control: 'color' },
