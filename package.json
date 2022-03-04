@@ -1,5 +1,5 @@
 {
-  "name": "@longfor-vue2-sfc/component",
+  "name": "@longfor-vue2-sfc/{{:name}}",
   "main": "src/index.js",
   "version": "0.0.24",
   "scripts": {
