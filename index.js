@@ -1,1 +1,1 @@
-export { default as Button } from './src'
+export { default as {{:name}} } from './src'
